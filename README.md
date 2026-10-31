@@ -24,3 +24,4 @@ Yêu cầu: Python 3.8 trở lên.
 Trong `manager.py`, hàm `average_gpa` có dòng `return round(..., 2)`.
 Cho hai nhánh sửa cùng dòng này khác nhau (ví dụ làm tròn 1 chữ số và 3 chữ số)
 rồi hợp nhất để tạo xung đột có chủ đích.
+abcxyz test
